@@ -1,5 +1,7 @@
 # antsoo-dialog
 
+对话框组件 transition标签可以用来做动画 name属性如果设置了就在下面样式里要用
+
 ## Props
 
 <!-- @vuese:antsoo-dialog:props:start -->

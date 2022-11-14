@@ -1,5 +1,7 @@
 # antsoo-button
 
+antsoo-ui button 组件
+
 ## Props
 
 <!-- @vuese:antsoo-button:props:start -->
